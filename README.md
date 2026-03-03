@@ -1,0 +1,2 @@
+# .github
+**smolotta** organization profile
